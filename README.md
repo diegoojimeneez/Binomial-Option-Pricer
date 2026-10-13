@@ -149,7 +149,7 @@ once.
 
 ### Simulated paths
 
-![Simulated stock price paths GBM](Simulated_Stock_Price_Paths_GBM)
+![Simulated stock price paths GBM](Simulated_Stock_Price_Paths_GBM.png)
 
 100 paths under the same parameters, with the strike marked. The fan
 widens as `√t` rather than linearly, which is the same `√T` that appears
