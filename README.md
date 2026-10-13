@@ -130,7 +130,7 @@ is the value of the early-exercise right.
 
 ### Monte Carlo convergence
 
-![Monte Carlo convergence](MonteCarloconvergence.png)
+![Monte Carlo convergence](MonteCarloConvergence.png)
 
 The two convergence charts fail in different ways, which is the point of
 having both. The tree oscillates in a regular, predictable pattern: its
@@ -149,7 +149,7 @@ once.
 
 ### Simulated paths
 
-![Simulated stock price paths GBM](Simulated stock price paths GBM.png)
+![Simulated stock price paths GBM](Simulated_Stock_Price_Paths_GBM)
 
 100 paths under the same parameters, with the strike marked. The fan
 widens as `√t` rather than linearly, which is the same `√T` that appears
