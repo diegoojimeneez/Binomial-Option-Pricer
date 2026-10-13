@@ -130,7 +130,7 @@ is the value of the early-exercise right.
 
 ### Monte Carlo convergence
 
-![Monte Carlo convergence](Monte Carlo convergence.png)
+![Monte Carlo convergence](MonteCarloconvergence.png)
 
 The two convergence charts fail in different ways, which is the point of
 having both. The tree oscillates in a regular, predictable pattern: its
